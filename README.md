@@ -1,4 +1,6 @@
-## Please navigate to the repository TrevorRoss for information about me or bettingatwork for a look into my main side-project.
+# Hi there, please navigate to:
+## TrevorRoss for information about me
+## bettingatwork for a look into my main side-project
 ### Everything else is nonsense
 
 <!---
